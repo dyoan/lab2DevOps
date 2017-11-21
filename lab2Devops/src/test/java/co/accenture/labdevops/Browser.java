@@ -7,6 +7,6 @@ package co.accenture.labdevops;
 public enum Browser {
 
     FIREFOX,
-    CHROME,
+    CHROME
     IE
 }
